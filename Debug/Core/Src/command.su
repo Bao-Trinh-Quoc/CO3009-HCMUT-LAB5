@@ -1,0 +1,2 @@
+../Core/Src/command.c:13:6:commandExecute	8	static
+../Core/Src/command.c:27:6:commandParser	8	static
